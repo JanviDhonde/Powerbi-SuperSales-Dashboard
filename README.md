@@ -59,6 +59,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 ### 🖼️ Dashboard Preview  
 https://github.com/JanviDhonde/Powerbi-SuperSales-Dashboard/blob/main/SuperStore%20Sales%20Dashboard.png
+https://github.com/JanviDhonde/Powerbi-SuperSales-Dashboard/blob/main/SuperStore%20Sales%20Forecast%20-%2015%20Days%20Forecast.png
 
 ### 🌟 Why This Project Matters  
 Effective data analysis and accurate sales forecasting are crucial for:  
