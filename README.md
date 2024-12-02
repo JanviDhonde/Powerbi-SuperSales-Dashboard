@@ -58,7 +58,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 - Gained insights into effective data storytelling and presentation.
 
 ### 🖼️ Dashboard Preview  
-
+https://github.com/JanviDhonde/Powerbi-SuperSales-Dashboard/blob/main/SuperStore%20Sales%20Dashboard.png
 
 ### 🌟 Why This Project Matters  
 Effective data analysis and accurate sales forecasting are crucial for:  
